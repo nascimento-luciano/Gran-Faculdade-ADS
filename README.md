@@ -31,4 +31,4 @@ Este repositório está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](
 
 ---
 
-Desenvolvido por [Luciano Silva do Nascimento] durante a Graduação em Análise e Desenvolvimento de Sistemas na [gran Faculdade].
+Desenvolvido por [Luciano Silva do Nascimento] durante a Graduação em Análise e Desenvolvimento de Sistemas na [Gran Faculdade].
