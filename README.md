@@ -1,21 +1,34 @@
-# Gran-Faculdade-ADS
-
 # Repositório de Atividades - Análise e Desenvolvimento de Sistemas
 
-Este repositório contém atividades desenvolvidas durante a Graduação em Análise e Desenvolvimento de Sistemas.
+Bem-vindo ao repositório de atividades desenvolvidas durante a Graduação em Análise e Desenvolvimento de Sistemas na [Gran Faculdade]. Este repositório documenta e compartilha os projetos e atividades práticas realizados ao longo do curso.
 
 ## Descrição
 
-Ao longo do curso, várias atividades práticas e teóricas foram realizadas para reforçar os conceitos aprendidos em sala de aula. Este repositório serve como um registro dessas atividades e projetos desenvolvidos.
-
-## Estrutura do Repositório
+Este repositório serve como um registro das diversas atividades e projetos desenvolvidos, refletindo o progresso e o aprendizado obtido durante o curso. Cada pasta contém um projeto ou atividade específica, detalhando os objetivos, tecnologias utilizadas e instruções para execução.
 
 ## Objetivo
 
-O objetivo deste repositório é documentar e compartilhar o progresso e o aprendizado obtido durante o curso, além de servir como referência para futuras atividades e projetos.
+O objetivo deste repositório é:
+
+- Documentar o progresso e o aprendizado ao longo do curso.
+- Servir como referência para futuras atividades e projetos.
+- Facilitar a revisão de conceitos e práticas aprendidos.
 
 ## Tecnologias Utilizadas
 
-- Linguagem de Programação: [especificar a linguagem]
-- Banco de Dados: [especificar o banco de dados]
-- Ferramentas: [especificar ferramentas, IDEs, etc.]
+- **Linguagem de Programação**: [Especificar a linguagem]
+- **Banco de Dados**: [Especificar o banco de dados]
+- **Ferramentas e IDEs**: [Especificar ferramentas, IDEs, etc.]
+- **Frameworks e Bibliotecas**: [Especificar frameworks e bibliotecas, se aplicável]
+
+## Contribuição
+
+Contribuições são bem-vindas! Se você deseja contribuir, siga os seguintes passos:
+
+## Licença
+
+Este repositório está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+Desenvolvido por [Luciano Silva do Nascimento] durante a Graduação em Análise e Desenvolvimento de Sistemas na [gran Faculdade].
