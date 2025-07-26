@@ -1,6 +1,6 @@
 # 📁 Projeto: Classificação de Imagens com MobileNet e Arquiteturas Avançadas
 
-https://colab.research.google.com/drive/1uLgxxHZHNdWJ1uN-LThpyFxv7ySOTrk0?usp=sharing
+▶️ [Abrir no Google Colab](https://colab.research.google.com/drive/1uLgxxHZHNdWJ1uN-LThpyFxv7ySOTrk0?usp=sharing)
 
 Este projeto realiza a **classificação de imagens industriais** (relacionadas ao processo de peneiramento vibratório) utilizando **redes neurais convolucionais (CNNs)** 
 com TensorFlow e Keras no Google Colab. O código foi estruturado para facilitar o uso de diferentes arquiteturas e maximizar a performance via GPU e precisão mista.
