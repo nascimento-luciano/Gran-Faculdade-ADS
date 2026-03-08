@@ -1,0 +1,48 @@
+.fornecedores-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.fornecedores-form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.fornecedores-form input {
+  flex: 1 1 200px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.fornecedores-form button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.fornecedores-form button:hover {
+  background-color: #0056b3;
+}
+
+.fornecedores-lista {
+  list-style: none;
+  padding: 0;
+}
+
+.fornecedores-lista li {
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+}
+
+.mensagem {
+  color: green;
+  font-weight: bold;
+}
